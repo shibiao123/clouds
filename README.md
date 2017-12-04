@@ -12,3 +12,5 @@ spring-cloud入门练习demo
  service1普通服务提供者
  
  api_gateway网关
+ 
+ 相关实战博客链接：http://blog.csdn.net/k21325/article/details/52789829
