@@ -22,10 +22,8 @@
       <module name="config_server" target="1.6" />
       <module name="eureka_service" target="1.6" />
       <module name="feign_customer" target="1.6" />
-      <module name="mybatis_customer" target="1.6" />
       <module name="ribbon_customer" target="1.6" />
       <module name="service1" target="1.6" />
-      <module name="service2" target="1.6" />
     </bytecodeTargetLevel>
   </component>
 </project>
